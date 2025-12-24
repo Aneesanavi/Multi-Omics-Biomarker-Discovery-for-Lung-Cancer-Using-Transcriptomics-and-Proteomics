@@ -152,12 +152,3 @@ This workflow mirrors real-world practices in:
 
 ---
 
-## Author
-**Aneesa Abbas**  
-Background: Genetics • Bioinformatics • AI  
-Focus: Omics integration, biomarker discovery, molecular diagnostics
-
----
-
-### Interview One-Liner
-> “This project demonstrates how integrating transcriptomic and proteomic evidence improves the robustness and interpretability of lung cancer biomarker discovery using public CPTAC data.”
